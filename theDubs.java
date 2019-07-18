@@ -53,6 +53,7 @@ public class theDubs {
 		 System.out.println("thank you "+ name+" for rating the calculator a " + be11);
 		 
 		 
+		 code.close();
 		 
 	}
 
